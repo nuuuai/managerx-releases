@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnFMRTRPdm9Nb0lJOWdqZlhoNlBCRFdsZFlPbms0bUlZWDNaZ2xtaXE1NmhzNkh5KzVkSkVSYzdVUldhalV2TVY3aHZ6R21FbnRUVnh6VVE4WDd1SXlQSVFLV1Jkc1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTI1NDI2CWZpbGU6TWFuYWdlclggUGhhcm1hY3kgQ29tcGxpYW5jZV8yLjcuMjA0X3g2NC1zZXR1cC5leGUKaDBvRklLV2dpNkF3UWZzRXNiT1lKMFBWT3RIZjFwYnpFYzFkMzl5d0hjWjhLY2hzdXdyVkMrZDk4UUlFa3k1SFNMWUFVdkphKy92M2hlM3lVbTNxQmc9PQo=",
+                                             "url":  "https://nuuuai.github.io/managerx-releases/releases/v2.7.204/ManagerX%20Pharmacy%20Compliance_2.7.204_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-05-27T23:43:46.432Z",
+    "version":  "2.7.204",
+    "notes":  "ManagerX v2.7.204"
+}
