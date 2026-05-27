@@ -1,11 +1,11 @@
 {
-    "notes":  "ManagerX v2.7.192",
-    "pub_date":  "2026-05-22T20:16:08.988Z",
-    "version":  "2.7.192",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQm1PTUt5VnF1Lzc0Mjh0QVhTcTdEMmMzR1BKbkJ3ZkdVelpsRlYxQ2JqSTdRZ3g2RnZpa1N0QnpxQUhCMWl1M0dWTHRvcEJEVzdjdWpoRWF1M3ArVUZoeDRZNW50clFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NDgwODc4CWZpbGU6TWFuYWdlclggUGhhcm1hY3kgQ29tcGxpYW5jZV8yLjcuMTkyX3g2NC1zZXR1cC5leGUKdjFMWWNCVE9LWFRrWk9uYmphSDBrL2hEaEtRYTNpdnExVEdCb1pSSXNpRUMvWDJ4LzFJaitNeUZMU0EyVTMyRWY1eWJtZUpHWXlZYUxBaXIyVmExQnc9PQo=",
-                                             "url":  "https://nuuuai.github.io/managerx-releases/releases/v2.7.192/ManagerX.Pharmacy.Compliance_2.7.192_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.7.200",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://nuuuai.github.io/managerx-releases/releases/v2.7.200/ManagerX%20Pharmacy%20Compliance_2.7.200_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnFMRTRPdm9Nb1ArNTNuRE9YMTV2RCtkT1k5ajhCSjFpbXdtVWNwZDhMcjdwTzlCYjNoSjVtYkpZbVNKQktOaEFQUE1ia0IzbVRXTTZWeEdEdVE0RXJCWGNrc3ZWUFFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTEwNzUwCWZpbGU6TWFuYWdlclggUGhhcm1hY3kgQ29tcGxpYW5jZV8yLjcuMjAwX3g2NC1zZXR1cC5leGUKdlc2U1VCNWh4ZHBCaVB0VHlpQnltbWsxaVJ6a2ZvWk5DNkY1NDlSRmpLUWlBNmFnZUFVNXIxc3o5UE5INmdFQzlZR3lrTlNlaDlwbmZ2SGVoNEVOQ1E9PQo="
+    }
+  },
+  "pub_date": "2026-05-27T19:48:15.44Z",
+  "notes": "ManagerX v2.7.200"
 }
