@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnFMRTRPdm9Nb0FkY0xMamJFU0ViZnpBQmVzbEFlTHhCTE1aeldpWmQvY0s5azdIalRqR3RsZ1dVckZSN2JTTTdjQUhwZ29EWDN6QnFBN2I4UGMvOXBEQTBBdlRsRkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDk5NjUzCWZpbGU6TWFuYWdlclggUGhhcm1hY3kgQ29tcGxpYW5jZV8yLjcuMjEwX3g2NC1zZXR1cC5leGUKTktxNzBzYTdUWFFJRnhNdFZHTlBpajl0UVd6ZzZKQy9BcFcwcit4eGJRQmRFcWUrWjU0MTBzeTlIWGFkU2JIblJTeVlSV21MY0xVT2JWQWdXV29BQnc9PQo=",
-                                             "url":  "https://nuuuai.github.io/managerx-releases/releases/v2.7.210/ManagerX%20Pharmacy%20Compliance_2.7.210_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMnFMRTRPdm9Nb0RhZFVIY0RKamtmbHpMS1YrZ09YRW1RMEJ3TXNja3NWMEM4aUs4TS9ybUs4S0IrcFZPdDdlMm1CaU9IcUcvTENsL2c4VVlWYWJpTnlLdHlQa2dLWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMzUxNjQ2CWZpbGU6TWFuYWdlclggUGhhcm1hY3kgQ29tcGxpYW5jZV8yLjcuMjEzX3g2NC1zZXR1cC5leGUKVnFiY2V2Sjl4M2Q3UXpGM0grSkIreVUycXRZRUxtdzY3Y3Jaak85YWM2LzVTTHlZdUIrK29jeVZmbGoyeXUvUXV1QmlUVyt1MlhHN2h5aXNncm1uRFE9PQo=",
+                                             "url":  "https://nuuuai.github.io/managerx-releases/releases/v2.7.213/ManagerX%20Pharmacy%20Compliance_2.7.213_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-30T00:07:34.342Z",
-    "version":  "2.7.210",
-    "notes":  "ManagerX v2.7.210"
+    "pub_date":  "2026-06-01T22:07:26.984Z",
+    "version":  "2.7.213",
+    "notes":  "ManagerX v2.7.213"
 }
